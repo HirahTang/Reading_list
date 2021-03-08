@@ -8,6 +8,8 @@
 
 ### 1.2 [Deep Learning](#DL)
 
+### 1.3 [Machine Learning](#ML)
+
 # Contents:
 
 ## 1.Data Science <a name = 'datascience'></a>
@@ -21,3 +23,8 @@
 | Title | Author(s) | Edition | Link |
 | --- | --- | --- | --- |
 | Deep Learning | Ian Goodfellow, Yoshua Bengio, Aaron Courville | Illustrated Edition | [Telegram Link](https://t.me/Datascienceee/465) |
+
+### 1.3 Machine Learning <a name = 'ML'></a>
+| Title | Author(s) | Edition | Link |
+| --- | --- | --- | --- |
+| Introduction to Machine Learning | Ethem Alpaydin | 3rd | [Telegram Link](https://t.me/Datascienceee/469) |
