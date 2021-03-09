@@ -12,6 +12,10 @@
 
 ## 2. [Mathematics](#math)
 
+## 3. [Other Sciences](#science)
+
+### 3.1 [Physical Chemistry](#physicalchemistry)
+
 # Contents:
 
 ## 1.Data Science <a name = 'datascience'></a>
@@ -35,3 +39,11 @@
 | Title | Author(s) | Edition | Link |
 | --- | --- | --- | --- |
 | Mathematics: A Very Short Introduction | Timothy Gowers | 1st | [Telegram Link](https://t.me/Datascienceee/471) |
+
+## 3. Other Sciences <a name = 'science'></a>
+
+### 3.1 Physical Chemistry <a name = 'physicalchemistry'></a>
+| Title | Author(s) | Edition | Link |
+| --- | --- | --- | --- |
+| Physical Chemistry: A Very Short Introduction | Peter Atkins | Illustrated Edition | [Telegram](https://t.me/Datascienceee/476) |
+
