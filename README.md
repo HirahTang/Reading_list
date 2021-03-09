@@ -10,6 +10,8 @@
 
 ### 1.3 [Machine Learning](#ML)
 
+## 2. [Mathematics](#math)
+
 # Contents:
 
 ## 1.Data Science <a name = 'datascience'></a>
@@ -28,3 +30,8 @@
 | Title | Author(s) | Edition | Link |
 | --- | --- | --- | --- |
 | Introduction to Machine Learning | Ethem Alpaydin | 3rd | [Telegram Link](https://t.me/Datascienceee/469) |
+
+## 2.Mathematics <a name = 'math'></a>
+| Title | Author(s) | Edition | Link |
+| --- | --- | --- | --- |
+| Mathematics: A Very Short Introduction | Timothy Gowers | 1st | [Telegram Link](https://t.me/Datascienceee/471) |
