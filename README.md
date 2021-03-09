@@ -18,7 +18,7 @@
 | Title | Author(s) | Edition | Link |
 | --- | --- | --- | --- |
 | Practical Natural Language Processing: A Pragmatic Approach to Processing and Analyzing Language Data | Sowmya Vajjala,  Bodhisattwa Majumder,  Anuj Gupta, Harshit Surana | 1st | [Telegram Link](https://t.me/Datascienceee/463) |
-
+| Hands-On Natural Language Processing with Python: A practical guide to applying deep learning architectures to your NLP applications | Rajesh Arumugam, Rajalingappaa Shanmugamani | 1st | [Telegram Link](https://t.me/Datascienceee/470) |
 ### 1.2 Deep Learning <a name = 'DL'></a>
 | Title | Author(s) | Edition | Link |
 | --- | --- | --- | --- |
