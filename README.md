@@ -37,7 +37,7 @@
 | --- | --- | --- | --- |
 | Introduction to Machine Learning | Ethem Alpaydin | 3rd | [Telegram Link](https://t.me/Datascienceee/469) |
 
-### 1.4 Data Visualization </a name = 'DataVis'></a>
+### 1.4 Data Visualization <a name = 'DataVis'></a>
 | Title | Author(s) | Edition | Link |
 | --- | --- | --- | --- |
 | Storytelling with Data: A Data Visualization Guide for Business Professionals | Cole Nussbaumer Knaflic | Paperback – Illustrated | [Telegram Link](https://t.me/Datascienceee/479) |
