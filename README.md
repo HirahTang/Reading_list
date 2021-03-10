@@ -10,6 +10,8 @@
 
 ### 1.3 [Machine Learning](#ML)
 
+### 1.4 [Data Visualization](#DataVis)
+
 ## 2. [Mathematics](#math)
 
 ## 3. [Other Sciences](#science)
@@ -34,6 +36,12 @@
 | Title | Author(s) | Edition | Link |
 | --- | --- | --- | --- |
 | Introduction to Machine Learning | Ethem Alpaydin | 3rd | [Telegram Link](https://t.me/Datascienceee/469) |
+
+### 1.4 Data Visualization </a name = 'DataVis'></a>
+| Title | Author(s) | Edition | Link |
+| --- | --- | --- | --- |
+| Storytelling with Data: A Data Visualization Guide for Business Professionals | Cole Nussbaumer Knaflic | Paperback – Illustrated | [Telegram Link](https://t.me/Datascienceee/479) |
+
 
 ## 2.Mathematics <a name = 'math'></a>
 | Title | Author(s) | Edition | Link |
