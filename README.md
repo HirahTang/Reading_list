@@ -18,6 +18,10 @@
 
 ### 3.1 [Physical Chemistry](#physicalchemistry)
 
+## 4. [Literatures](#literature)
+
+### 4.1 [Historic Literatures](#historicliterature)
+
 # Contents:
 
 ## 1.Data Science <a name = 'datascience'></a>
@@ -55,5 +59,12 @@
 ### 3.1 Physical Chemistry <a name = 'physicalchemistry'></a>
 | Title | Author(s) | Edition | Link |
 | --- | --- | --- | --- |
-| Physical Chemistry: A Very Short Introduction | Peter Atkins | Illustrated Edition | [Telegram](https://t.me/Datascienceee/476) |
+| Physical Chemistry: A Very Short Introduction | Peter Atkins | Illustrated Edition | [Telegram Link](https://t.me/Datascienceee/476) |
 
+## 4. Literatures <a name = 'literature'></a>
+
+### 4.1 Historic Literatures <a name = 'historicliterature'></a>
+
+| Title | Author(s) | Edition | Link |
+| --- | --- | --- | --- |
+| All Quiet on the Western Front - 西線無戰事 | Erich Maria Remarque, A W. Wheen (Translator), 朱雯(譯者) | Mass Market Paperback | [Telegram Link](https://t.me/Datascienceee/489)
