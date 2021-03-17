@@ -22,6 +22,10 @@
 
 ### 4.1 [Historic Literatures](#historicliterature)
 
+## 5. [Politics & Social Science](#politicssocialscience)
+
+### 5.1 [Government](#governmentpoitics)
+
 # Contents:
 
 ## 1.Data Science <a name = 'datascience'></a>
@@ -68,3 +72,11 @@
 | Title | Author(s) | Edition | Link |
 | --- | --- | --- | --- |
 | All Quiet on the Western Front - 西線無戰事 | Erich Maria Remarque, A W. Wheen (Translator), 朱雯(譯者) | Mass Market Paperback | [Telegram Link](https://t.me/Datascienceee/489)
+
+## 5. Politics & Social Science <a name = 'politicssocialscience'></a>
+
+### 5.1 Government <a name = 'governmentpoitics'></a>
+
+| Title | Author(s) | Edition | Link |
+| --- | --- | --- | --- |
+| Wars, Guns, and Votes: Democracy in Dangerous Places | Paul Collier |  | [Telegram Link](https://t.me/Datascienceee/493) |
