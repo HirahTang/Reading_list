@@ -26,6 +26,8 @@
 
 ### 5.1 [Government](#governmentpoitics)
 
+### 5.2 [Nations](#nations)
+
 # Contents:
 
 ## 1.Data Science <a name = 'datascience'></a>
@@ -83,3 +85,8 @@
 | Title | Author(s) | Edition | Link |
 | --- | --- | --- | --- |
 | Wars, Guns, and Votes: Democracy in Dangerous Places | Paul Collier |  | [Telegram Link](https://t.me/Datascienceee/493) |
+
+### 5.2 Nations <a name = 'nations'></a>
+| Title | Author(s) | Edition | Link |
+| --- | --- | --- | --- |
+| Modern China: A Very Short Introduction | Rana Mitter | 2nd | [Telegram Link](https://t.me/Datascienceee/519) |
