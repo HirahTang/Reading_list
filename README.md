@@ -91,3 +91,8 @@
 | Title | Author(s) | Edition | Link |
 | --- | --- | --- | --- |
 | Modern China: A Very Short Introduction | Rana Mitter | 2nd | [Telegram Link](https://t.me/Datascienceee/519) |
+
+### 5.3 Political Philosophy <a name = 'politicalphilosophy'></a>
+| Title | Author(s) | Edition | Link |
+| --- | --- | --- | --- |
+| Political Philosophy: A Very Short Introduction | David Miller | 1st Edition | [Telegram Link](https://t.me/Datascienceee/525) |
