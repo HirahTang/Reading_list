@@ -28,6 +28,9 @@
 
 ### 5.2 [Nations](#nations)
 
+## 6. [Personal Development](#personaldevelopment)
+
+
 # Contents:
 
 ## 1.Data Science <a name = 'datascience'></a>
@@ -96,3 +99,8 @@
 | Title | Author(s) | Edition | Link |
 | --- | --- | --- | --- |
 | Political Philosophy: A Very Short Introduction | David Miller | 1st Edition | [Telegram Link](https://t.me/Datascienceee/525) |
+
+## 6. Personal Development <a name = 'personaldevelopment'></a>
+| Title | Author(s) | Edition | Link |
+| --- | --- | --- | --- |
+| How to Read a Book: The Classic Guide to Intelligent Reading | Mortimer J. Adler, Charles Van Doren | PaperBack | [Telegram Link](https://t.me/Datascienceee/551) |
