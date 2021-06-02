@@ -14,6 +14,10 @@
 
 ## 2. [Mathematics](#math)
 
+### 2.1 [Computer Science](#cs)
+
+#### 2.1.1 [Algorithms and Data Structures](#ADS)
+
 ## 3. [Other Sciences](#science)
 
 ### 3.1 [Physical Chemistry](#physicalchemistry)
@@ -66,6 +70,14 @@
 | Title | Author(s) | Edition | Link |
 | --- | --- | --- | --- |
 | Mathematics: A Very Short Introduction | Timothy Gowers | 1st | [Telegram Link](https://t.me/Datascienceee/471) |
+
+### 2.1 Computer Science <a name = 'cs'></a>
+
+#### 2.1.1 Algorithms and Data Structures <a name = 'ADS'></a>
+
+| Title | Author(s) | Edition | Link |
+| --- | --- | --- | --- |
+| Introduction to Algorithms | Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein | 3rd | https://t.me/Datascienceee/558 |
 
 ## 3. Other Sciences <a name = 'science'></a>
 
