@@ -77,7 +77,7 @@
 
 | Title | Author(s) | Edition | Link |
 | --- | --- | --- | --- |
-| Introduction to Algorithms | Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein | 3rd | https://t.me/Datascienceee/558 |
+| Introduction to Algorithms | Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein | 3rd | [Telegram Link](https://t.me/Datascienceee/558) |
 
 ## 3. Other Sciences <a name = 'science'></a>
 
