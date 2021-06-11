@@ -18,6 +18,8 @@
 
 #### 2.1.1 [Algorithms and Data Structures](#ADS)
 
+#### 2.1.2 [Computer Programming](#CP)
+
 ## 3. [Other Sciences](#science)
 
 ### 3.1 [Physical Chemistry](#physicalchemistry)
@@ -78,6 +80,12 @@
 | Title | Author(s) | Edition | Link |
 | --- | --- | --- | --- |
 | Introduction to Algorithms | Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein | 3rd | [Telegram Link](https://t.me/Datascienceee/558) |
+
+#### 2.1.2 Computer Programming <a name = 'CP'></a>
+
+| Title | Author(s) | Edition | Link |
+| --- | --- | --- | --- |
+| The Art of Computer Programming: Volume 1 - Fundamental Algorithms | Donald E. Knuth | 3rd Edition | [Telegram Link](https://t.me/Datascienceee/579) | 
 
 ## 3. Other Sciences <a name = 'science'></a>
 
