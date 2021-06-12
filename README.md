@@ -86,6 +86,7 @@
 | Title | Author(s) | Edition | Link |
 | --- | --- | --- | --- |
 | The Art of Computer Programming: Volume 1 - Fundamental Algorithms | Donald E. Knuth | 3rd Edition | [Telegram Link](https://t.me/Datascienceee/579) | 
+| The Art of Computer Programming: Volume 2 - Seminumerical Algorithms | Donald E. Knuth | 2nd | [Telegram Link](https://t.me/Datascienceee/580) |
 
 ## 3. Other Sciences <a name = 'science'></a>
 
