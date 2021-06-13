@@ -80,6 +80,8 @@
 | Title | Author(s) | Edition | Link |
 | --- | --- | --- | --- |
 | Introduction to Algorithms | Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein | 3rd | [Telegram Link](https://t.me/Datascienceee/558) |
+| labuladong的算法小抄 | labuladong | OnlinePage | [Link](https://labuladong.gitbook.io/algo/) [Telegram Link](https://t.me/datascience_chinese/171) |
+| LeetCode 101: A LeetCode Grinding Guide (C++ Version) | 高畅 Chang Gao | 正式版 1.00 | [Telegram Link](https://t.me/datascience_chinese/171?single) | 
 
 #### 2.1.2 Computer Programming <a name = 'CP'></a>
 
