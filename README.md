@@ -66,6 +66,7 @@
 | Title | Author(s) | Edition | Link |
 | --- | --- | --- | --- |
 | Storytelling with Data: A Data Visualization Guide for Business Professionals | Cole Nussbaumer Knaflic | Paperback – Illustrated | [Telegram Link](https://t.me/Datascienceee/479) |
+| Storytelling with Data: Let's Practice | Cole Nussbaumer Knaflic | PaperBack | [Telegram Link](https://t.me/Datascienceee/583) | 
 
 
 ## 2.Mathematics <a name = 'math'></a>
