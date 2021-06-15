@@ -41,6 +41,10 @@
 
 ## 1.Data Science <a name = 'datascience'></a>
 
+| Title | Author(s) | Edition | Link |
+| --- | --- | --- | --- |
+| Ultimate Guide to Data Science Interviews: Go From a Job Hunt to Accepting An Offer | www.springboard.com |  | https://t.me/Datascienceee/584 |  
+
 ### 1.1 Natural Language Processing <a name = 'NLP'></a>
 | Title | Author(s) | Edition | Link |
 | --- | --- | --- | --- |
