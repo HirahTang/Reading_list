@@ -43,7 +43,7 @@
 
 | Title | Author(s) | Edition | Link |
 | --- | --- | --- | --- |
-| Ultimate Guide to Data Science Interviews: Go From a Job Hunt to Accepting An Offer | www.springboard.com |  | https://t.me/Datascienceee/584 |  
+| Ultimate Guide to Data Science Interviews: Go From a Job Hunt to Accepting An Offer | www.springboard.com |  | [Telegram Link](https://t.me/Datascienceee/584) |  
 
 ### 1.1 Natural Language Processing <a name = 'NLP'></a>
 | Title | Author(s) | Edition | Link |
