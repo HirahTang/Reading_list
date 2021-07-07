@@ -67,7 +67,9 @@
 | The Hundred-Page Machine Learning Book | Andriy Burkov |  |[Telegram Link](https://t.me/Datascienceee/510) |
 | The Elements of Statistical Learning | Trevor Hastie, Robert Tibshirani, Jerome Friedman | 2nd | [Telegram Link](https://t.me/Datascienceee/511) |
 | Machine Learning Yearning | Andrew Ng | Draft Version | [Telegram Link](https://t.me/Datascienceee/513) |
-| Ensemble Methods: Foundations and Algorithms | Zhi-Hua Zhou | 1st Edition | [Telegram Link](https://t.me/Datascienceee/585) |   
+| Ensemble Methods: Foundations and Algorithms | Zhi-Hua Zhou | 1st Edition | [Telegram Link](https://t.me/Datascienceee/585) |
+| Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems | Aurélien Géron | 2nd | [Telegram Link](https://t.me/Datascienceee/614) |
+
 ### 1.4 Data Visualization <a name = 'DataVis'></a>
 | Title | Author(s) | Edition | Link |
 | --- | --- | --- | --- |
