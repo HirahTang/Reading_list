@@ -52,7 +52,7 @@
 | --- | --- | --- | --- |
 | Practical Natural Language Processing: A Pragmatic Approach to Processing and Analyzing Language Data | Sowmya Vajjala,  Bodhisattwa Majumder,  Anuj Gupta, Harshit Surana | 1st | [Telegram Link](https://t.me/Datascienceee/463) |
 | Hands-On Natural Language Processing with Python: A practical guide to applying deep learning architectures to your NLP applications | Rajesh Arumugam, Rajalingappaa Shanmugamani | 1st | [Telegram Link](https://t.me/Datascienceee/470) |
-| FastText Quick Start Guide: Get started with Facebook's library for text representation and classification | Joydeep Bhattacharjee | Paperback Edition | [Telegram](https://t.me/Datascienceee/484) |
+| FastText Quick Start Guide: Get started with Facebook's library for text representation and classification | Joydeep Bhattacharjee | Paperback Edition | [Telegram Link](https://t.me/Datascienceee/484) |
 
 ### 1.2 Deep Learning <a name = 'DL'></a>
 | Title | Author(s) | Edition | Link |
