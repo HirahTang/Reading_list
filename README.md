@@ -59,6 +59,7 @@
 | --- | --- | --- | --- |
 | Deep Learning | Ian Goodfellow, Yoshua Bengio, Aaron Courville | Illustrated Edition | [Telegram Link](https://t.me/Datascienceee/465) |
 | Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD | Jeremy Howard, Sylvain Gugger | 1st Edition | [Telegram Link](https://t.me/Datascienceee/524) |
+| Deep Learning with Python | François Chollet | 1st | [Telegram Link](https://t.me/Datascienceee/618) |
 
 ### 1.3 Machine Learning <a name = 'ML'></a>
 | Title | Author(s) | Edition | Link |
