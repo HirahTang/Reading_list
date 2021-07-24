@@ -96,6 +96,7 @@
 | LeetCode 101: A LeetCode Grinding Guide (C++ Version) | 高畅 Chang Gao | 正式版 1.00 | [Telegram Link](https://t.me/datascience_chinese/171?single) | 
 | 剑指Offer:名企面试官精讲典型编程题 | 何海涛 | 1st | [Telegram Link](https://t.me/datascience_chinese/185) |
 | 剑指Offer:名企面试官精讲典型编程题 | 何海涛 | 2nd | [Telegram Link](https://t.me/datascience_chinese/186) |
+| The Algorithm Design Manual | Steven S S. Skiena | 2nd, 3rd | [Telegram Link(2nd)](https://t.me/Datascienceee/637), [Telegram Link(3rd)](https://t.me/Datascienceee/638) |
 
 #### 2.1.2 Computer Programming <a name = 'CP'></a>
 
