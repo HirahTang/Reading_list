@@ -73,7 +73,7 @@
 | Ensemble Methods: Foundations and Algorithms | Zhi-Hua Zhou | 1st Edition | [Telegram Link](https://t.me/Datascienceee/585) |
 | Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems | Aurélien Géron | 2nd | [Telegram Link](https://t.me/Datascienceee/614) |
 | Python Machine Learning | Sebastian Raschka, Vahid Mirjalili | 2nd | [Telegram Link](https://t.me/Datascienceee/621) |
-| 机器学习 | 周志华 ｜1st | [Telegram Link](https://t.me/datascience_chinese/237) |
+| 机器学习 | 周志华 | 1st | [Telegram Link](https://t.me/datascience_chinese/237) |
 
 ### 1.4 Data Visualization <a name = 'DataVis'></a>
 | Title | Author(s) | Edition | Link |
