@@ -75,6 +75,8 @@
 | Python Machine Learning | Sebastian Raschka, Vahid Mirjalili | 2nd | [Telegram Link](https://t.me/Datascienceee/621) |
 | 机器学习 | 周志华 | 1st | [Telegram Link](https://t.me/datascience_chinese/237) |
 | 统计学习方法 | 李航 | 1st | [Telegram Link](https://t.me/datascience_chinese/261) |
+| Pattern Recognition and Machine Learning (Information Science and Statistics) | Christopher M. Bishop | 1st | [Telegram Link](https://t.me/Datascienceee/688) |
+
 
 ### 1.4 Data Visualization <a name = 'DataVis'></a>
 | Title | Author(s) | Edition | Link |
