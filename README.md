@@ -12,6 +12,8 @@
 
 ### 1.4 [Data Visualization](#DataVis)
 
+### 1.5 [Data Mining](#DataMining)
+
 ## 2. [Mathematics](#math)
 
 ### 2.1 [Computer Science](#cs)
@@ -85,6 +87,10 @@
 | Storytelling with Data: A Data Visualization Guide for Business Professionals | Cole Nussbaumer Knaflic | Paperback – Illustrated | [Telegram Link](https://t.me/Datascienceee/479) |
 | Storytelling with Data: Let's Practice | Cole Nussbaumer Knaflic | PaperBack | [Telegram Link](https://t.me/Datascienceee/583) | 
 
+### 1.5 Data Mining <a name = 'DataMining'></a>
+| Title | Author(s) | Edition | Link |
+| --- | --- | --- | --- |
+| [Mining of Massive Datasets](http://www.mmds.org) | Jure Leskovec, Anand Rajaraman, Jeffrey David Ullman | 3rd | [Telegram Link](https://t.me/Datascienceee/700) |
 
 ## 2.Mathematics <a name = 'math'></a>
 | Title | Author(s) | Edition | Link |
