@@ -117,6 +117,7 @@
 | --- | --- | --- | --- |
 | The Art of Computer Programming: Volume 1 - Fundamental Algorithms | Donald E. Knuth | 3rd Edition | [Telegram Link](https://t.me/Datascienceee/579) | 
 | The Art of Computer Programming: Volume 2 - Seminumerical Algorithms | Donald E. Knuth | 2nd | [Telegram Link](https://t.me/Datascienceee/580) |
+| The Pragmatic Programmer: Your Journey To Mastery | David Thomas, Andrew Hunt | 20th Anniversary Edition (2nd) | [Telegram Link](https://t.me/Datascienceee/703) |
 
 ### 2.2 Statistics <a name = 'stats'></a>
 
