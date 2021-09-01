@@ -131,7 +131,7 @@
 
 | Title | Author(s) | Edition | Link |
 | --- | --- | --- | --- |
-| Artificial Intelligence: A Modern Approach | Stuart Russell, Peter Norvig | 4th | [Telegram Link](https://t.me/Datascienceee/707) |
+| [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu) | Stuart Russell, Peter Norvig | 4th | [Telegram Link](https://t.me/Datascienceee/707) |
 
 ## 3. Other Sciences <a name = 'science'></a>
 
