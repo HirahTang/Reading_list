@@ -24,6 +24,8 @@
 
 ### 2.2 [Statistics](#stats)
 
+### 2.3 [Artificial Intelligence](#AI)
+
 ## 3. [Other Sciences](#science)
 
 ### 3.1 [Physical Chemistry](#physicalchemistry)
@@ -125,6 +127,11 @@
 | --- | --- | --- | --- |
 | Naked Statistics: Stripping the Dread from the Data | Charles Wheelan | 1st | [Telegram Link](https://t.me/Datascienceee/602) |
 
+### 2.3 Artificial Intelligence <a name = 'AI'></a>
+
+| Title | Author(s) | Edition | Link |
+| --- | --- | --- | --- |
+| Artificial Intelligence: A Modern Approach | Stuart Russell, Peter Norvig | 4th | [Telegram Link](https://t.me/Datascienceee/707) |
 
 ## 3. Other Sciences <a name = 'science'></a>
 
