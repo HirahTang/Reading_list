@@ -82,6 +82,7 @@
 | 统计学习方法 | 李航 | 2nd | [Telegram Link](https://t.me/datascience_chinese/268) |
 | Pattern Recognition and Machine Learning (Information Science and Statistics) | Christopher M. Bishop | 1st | [Telegram Link](https://t.me/Datascienceee/688) |
 | Fundamentals of Machine Learning for Predictive Data Analytics, second edition: Algorithms, Worked Examples, and Case Studies | John D. Kelleher, Brian Mac Namee, Aoife D'Arcy | 2nd | [Telegram Link](https://t.me/Datascienceee/693) |
+| [Pragmatic AI: An Introduction to Cloud-Based Machine Learning (Addison Wesley Data & Analytics)](https://paiml.com) | Noah Gift | 1st | [Telegram Link](https://t.me/Datascienceee/711) |
 
 
 ### 1.4 Data Visualization <a name = 'DataVis'></a>
