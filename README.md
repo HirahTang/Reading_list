@@ -30,6 +30,8 @@
 
 ### 3.1 [Physical Chemistry](#physicalchemistry)
 
+### 3.2 [Organic Chemistry](#organicchemistry)
+
 ## 4. [Literatures](#literature)
 
 ### 4.1 [Historic Literatures](#historicliterature)
@@ -140,6 +142,11 @@
 | Title | Author(s) | Edition | Link |
 | --- | --- | --- | --- |
 | Physical Chemistry: A Very Short Introduction | Peter Atkins | Illustrated Edition | [Telegram Link](https://t.me/Datascienceee/476) |
+
+### 3.2 Organic Chemistry <a name = 'organicchemistry'></a>
+| Title | Author(s) | Edition | Link |
+| --- | --- | --- | --- |
+| Organic Chemistry: Structure and Function | K. Peter C. Vollhardt, Neil E. Schore | 6th & 8th | [Telegram Link](https://t.me/hirahtalkshere/238) [Telegram Link](https://t.me/hirahtalkshere/239) |
 
 ## 4. Literatures <a name = 'literature'></a>
 
