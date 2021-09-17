@@ -68,6 +68,8 @@
 | Deep Learning with Python | François Chollet | 1st | [Telegram Link](https://t.me/Datascienceee/618) |
 | Deep Learning with PyTorch: Build, train, and tune neural networks using Python tools | Eli Stevens, Luca Antiga, Thomas Viehmann | 1st | [Telegram Link](https://t.me/Datascienceee/619) | 
 | Dive into Deep Learning | [Authors](https://d2l.ai/index.html) | Online Available | [Link](https://d2l.ai/index.html) | 
+| Deep Learning for the Life Sciences: Applying Deep Learning to Genomics, Microscopy, Drug Discovery, and More | 
+Bharath Ramsundar, Peter Eastman, Patrick Walters, Vijay Pande | 1st | [Telegram Link](https://t.me/Datascienceee/738) |
 
 ### 1.3 Machine Learning <a name = 'ML'></a>
 | Title | Author(s) | Edition | Link |
