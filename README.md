@@ -14,6 +14,8 @@
 
 ### 1.5 [Data Mining](#DataMining)
 
+### 1.6 [Bioinformatics & Cheminformatics](#chembioinformatics)
+
 ## 2. [Mathematics](#math)
 
 ### 2.1 [Computer Science](#cs)
@@ -98,6 +100,11 @@
 | Title | Author(s) | Edition | Link |
 | --- | --- | --- | --- |
 | [Mining of Massive Datasets](http://www.mmds.org) | Jure Leskovec, Anand Rajaraman, Jeffrey David Ullman | 3rd | [Telegram Link](https://t.me/Datascienceee/700) |
+
+### 1.6 Bioinformatics & Cheminformatics <a name = 'chembioinformatics'></a>
+| Title | Author(s) | Edition | Link |
+| --- | --- | --- | --- |
+| Computational Approaches in Cheminformatics and Bioinformatics | Rajarshi Guha, Andreas Bender | 1st | [Telegram Link](https://t.me/Datascienceee/741) |
 
 ## 2.Mathematics <a name = 'math'></a>
 | Title | Author(s) | Edition | Link |
