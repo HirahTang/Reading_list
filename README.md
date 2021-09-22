@@ -186,3 +186,4 @@
 | Title | Author(s) | Edition | Link |
 | --- | --- | --- | --- |
 | How to Read a Book: The Classic Guide to Intelligent Reading | Mortimer J. Adler, Charles Van Doren | PaperBack | [Telegram Link](https://t.me/Datascienceee/551) |
+| The Meaning of Life: A Very Short Introduction | Terry Eagleton | Paperback | [Telegram Link](https://t.me/Datascienceee/744) |
