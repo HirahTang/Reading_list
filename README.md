@@ -28,6 +28,8 @@
 
 ### 2.3 [Artificial Intelligence](#AI)
 
+### 2.4 [Optimization Theories](#optim)
+
 ## 3. [Other Sciences](#science)
 
 ### 3.1 [Physical Chemistry](#physicalchemistry)
@@ -144,6 +146,12 @@
 | Title | Author(s) | Edition | Link |
 | --- | --- | --- | --- |
 | [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu) | Stuart Russell, Peter Norvig | 4th | [Telegram Link](https://t.me/Datascienceee/707) |
+
+### 2.4 Optimization Theories <a name = 'optim'></a>
+
+| Title | Author(s) | Edition | Link |
+| --- | --- | --- | --- |
+| [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/) | Stephen Boyd, Lieven Vandenberghe | 1st | [Telegram Link](https://t.me/Datascienceee/757) | 
 
 ## 3. Other Sciences <a name = 'science'></a>
 
