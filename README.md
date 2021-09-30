@@ -113,7 +113,7 @@
 | Title | Author(s) | Edition | Link |
 | --- | --- | --- | --- |
 | Mathematics: A Very Short Introduction | Timothy Gowers | 1st | [Telegram Link](https://t.me/Datascienceee/471) |
-
+| [Mathematics for Machine Learning](https://mml-book.github.io) | Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong | 1st | [Telegram Link](https://t.me/Datascienceee/758) |
 ### 2.1 Computer Science <a name = 'cs'></a>
 
 #### 2.1.1 Algorithms and Data Structures <a name = 'ADS'></a>
