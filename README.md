@@ -48,6 +48,8 @@
 
 ## 6. [Personal Development](#personaldevelopment)
 
+### 6.1 [MBTI](#MBTI)
+
 
 # Contents:
 
@@ -197,3 +199,8 @@
 | --- | --- | --- | --- |
 | How to Read a Book: The Classic Guide to Intelligent Reading | Mortimer J. Adler, Charles Van Doren | PaperBack | [Telegram Link](https://t.me/Datascienceee/551) |
 | The Meaning of Life: A Very Short Introduction | Terry Eagleton | Paperback | [Telegram Link](https://t.me/Datascienceee/744) |
+
+### 6.1 MBTI <a name = 'MBTI'></a>
+| Title | Author(s) | Edition | Link |
+| --- | --- | --- | --- |
+| INTJ - Architect (16 Personalities premium profiles) | [16 Personalities](https://www.16personalities.com) | | [Telegram Link](https://t.me/hirahtalkshere/247) |
