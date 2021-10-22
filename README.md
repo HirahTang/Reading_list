@@ -188,7 +188,7 @@
 | Title | Author(s) | Edition | Link |
 | --- | --- | --- | --- |
 | Modern China: A Very Short Introduction | Rana Mitter | 2nd | [Telegram Link](https://t.me/Datascienceee/519) |
-
+| Migrations And Cultures: A World View | Thomas Sowell | Paperback | [Telegram Link](https://t.me/hirahtalkshere/255) |
 ### 5.3 Political Philosophy <a name = 'politicalphilosophy'></a>
 | Title | Author(s) | Edition | Link |
 | --- | --- | --- | --- |
