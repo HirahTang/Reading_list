@@ -42,6 +42,8 @@
 
 ### 4.1 [Historic Literatures](#historicliterature)
 
+### 4.2 [Scientific Fictions](#scifi)
+
 ## 5. [Politics & Social Science](#politicssocialscience)
 
 ### 5.1 [Government](#governmentpoitics)
@@ -182,6 +184,12 @@
 | Title | Author(s) | Edition | Link |
 | --- | --- | --- | --- |
 | All Quiet on the Western Front - 西線無戰事 | Erich Maria Remarque, A W. Wheen (Translator), 朱雯(譯者) | Mass Market Paperback | [Telegram Link](https://t.me/Datascienceee/489)
+
+### 4.2 Scientific Fictions <a name = 'scifi'></a>
+
+| Title | Author(s) | Edition | Link |
+| --- | --- | --- | --- |
+| Dune | Frank Herbert | | [Telegram Link](https://t.me/hirahtalkshere/256) |
 
 ## 5. Politics & Social Science <a name = 'politicssocialscience'></a>
 
