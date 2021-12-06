@@ -38,6 +38,8 @@
 
 ### 3.2 [Organic Chemistry](#organicchemistry)
 
+### 3.3 [Medicinal Chemistry](#medicinalchemistry)
+
 ## 4. [Literatures](#literature)
 
 ### 4.1 [Historic Literatures](#historicliterature)
@@ -176,6 +178,12 @@
 | Title | Author(s) | Edition | Link |
 | --- | --- | --- | --- |
 | Organic Chemistry: Structure and Function | K. Peter C. Vollhardt, Neil E. Schore | 6th & 8th | [Telegram Link](https://t.me/hirahtalkshere/238) [Telegram Link](https://t.me/hirahtalkshere/239) |
+
+### 3.3 Medicinal Chemistry <a name = 'medicinalchemistry'></a>
+| Title | Author(s) | Edition | Link |
+| --- | --- | --- | --- |
+| Medicinal Chemistry: A Look at How Drugs Are Discovered | A. K. Ganguly, Sesha Sridevi Alluri | 1st Edition | [Telegram Link](https://t.me/Datascienceee/843) | 
+
 
 ## 4. Literatures <a name = 'literature'></a>
 
