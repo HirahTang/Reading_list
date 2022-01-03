@@ -18,6 +18,8 @@
 
 ### 1.6 [Bioinformatics & Cheminformatics](#chembioinformatics)
 
+### 1.7 [Graph Neural Networks & Graph relates](#graph)
+
 ## 2. [Mathematics](#math)
 
 ### 2.1 [Computer Science](#cs)
@@ -122,6 +124,10 @@
 | --- | --- | --- | --- |
 | Computational Approaches in Cheminformatics and Bioinformatics | Rajarshi Guha, Andreas Bender | 1st | [Telegram Link](https://t.me/Datascienceee/741) |
 
+### 1.7 Graph Neural Networks & Graph Relates <a name = 'graph'></a>
+| Title | Author(s) | Edition | Link |
+| --- | --- | --- | --- |
+| Graph Representation Learning | William L. Hamilton | 1st | [Telegram Link](https://t.me/Datascienceee/864) |
 ## 2.Mathematics <a name = 'math'></a>
 | Title | Author(s) | Edition | Link |
 | --- | --- | --- | --- |
