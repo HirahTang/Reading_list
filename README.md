@@ -58,6 +58,7 @@
 
 ### 6.1 [MBTI](#MBTI)
 
+### 6.2 [Objective and Key Results (OKR)](#OKR)
 
 # Contents:
 
@@ -233,3 +234,8 @@
 | Title | Author(s) | Edition | Link |
 | --- | --- | --- | --- |
 | INTJ - Architect (16 Personalities premium profiles) | [16 Personalities](https://www.16personalities.com) | | [Telegram Link](https://t.me/hirahtalkshere/247) |
+
+### 6.2 Objective and Key Results (OKR) <a name = 'OKR'></a>
+| Title | Author(s) | Edition | Link |
+| --- | --- | --- | --- |
+| Radical Focus: Achieving Your Most Important Goals with Objectives and Key Results | Christina R Wodtke | 2nd | [Telegram Link](https://t.me/Datascienceee/870) |
