@@ -103,7 +103,7 @@
 | Fundamentals of Machine Learning for Predictive Data Analytics, second edition: Algorithms, Worked Examples, and Case Studies | John D. Kelleher, Brian Mac Namee, Aoife D'Arcy | 2nd | [Telegram Link](https://t.me/Datascienceee/693) |
 | [Pragmatic AI: An Introduction to Cloud-Based Machine Learning (Addison Wesley Data & Analytics)](https://paiml.com) | Noah Gift | 1st | [Telegram Link](https://t.me/Datascienceee/711) |
 | Programming Collective Intelligence: Building Smart Web 2.0 Applications | Toby Segaran | 1st | [Telegram Link](https://t.me/Datascienceee/723) |
-| Learning from Data | [Yaser Abu-Mostafa](https://home.work.caltech.edu/), [Malik Magdon-Ismail](http://www.cs.rpi.edu/~magdon/), [Hsuan-Tien Lin](https://www.csie.ntu.edu.tw/~htlin/) | Hardcover | [Telegram Link](https://t.me/Datascienceee/883) | 
+| [Learning from Data](http://amlbook.com/index.html) | [Yaser Abu-Mostafa](https://home.work.caltech.edu/), [Malik Magdon-Ismail](http://www.cs.rpi.edu/~magdon/), [Hsuan-Tien Lin](https://www.csie.ntu.edu.tw/~htlin/) | Hardcover | [Telegram Link](https://t.me/Datascienceee/883) | 
 #### 1.3.1 Interpretable Machine Learning <a name = 'XAI'></a>
 | Title | Author(s) | Edition | Link |
 | --- | --- | --- | --- |
