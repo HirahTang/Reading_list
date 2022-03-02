@@ -54,6 +54,8 @@
 
 ### 5.2 [Nations](#nations)
 
+### 5.3 [Political Philosophy](#politicalphilosophy)
+
 ## 6. [Personal Development](#personaldevelopment)
 
 ### 6.1 [MBTI](#MBTI)
@@ -223,7 +225,7 @@
 | Title | Author(s) | Edition | Link |
 | --- | --- | --- | --- |
 | Political Philosophy: A Very Short Introduction | David Miller | 1st Edition | [Telegram Link](https://t.me/Datascienceee/525) |
-
+| 民主的细节：美国当代政治观察随笔 | 刘瑜 | 1st | [Telegram Link](https://t.me/hirahtalkshere/266) |
 ## 6. Personal Development <a name = 'personaldevelopment'></a>
 | Title | Author(s) | Edition | Link |
 | --- | --- | --- | --- |
