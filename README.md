@@ -132,6 +132,7 @@
 | --- | --- | --- | --- |
 | Graph Representation Learning | William L. Hamilton | 1st | [Telegram Link](https://t.me/Datascienceee/864) |
 | [Networks, Crowds, and Markets: Reasoning About a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/) | David Easley, Jon Kleinberg |  | [Telegram Link](https://t.me/Datascienceee/896) |
+| [Network Science](http://networksciencebook.com/) | Albert-László Barabási | | |
 ## 2.Mathematics <a name = 'math'></a>
 | Title | Author(s) | Edition | Link |
 | --- | --- | --- | --- |
