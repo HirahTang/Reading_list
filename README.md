@@ -42,6 +42,9 @@
 
 ### 3.3 [Medicinal Chemistry](#medicinalchemistry)
 
+### 3.4 [Physics](#physics)
+
+#### 3.4.1 [Quantum Physics](#quantumphysics)
 ## 4. [Literatures](#literature)
 
 ### 4.1 [Historic Literatures](#historicliterature)
@@ -195,7 +198,12 @@
 | --- | --- | --- | --- |
 | Medicinal Chemistry: A Look at How Drugs Are Discovered | A. K. Ganguly, Sesha Sridevi Alluri | 1st Edition | [Telegram Link](https://t.me/Datascienceee/843) | 
 
+### 3.4 Physics<a name = '#physics'></a>
 
+#### 3.4.1 Quantum Physics<a name = '#quantumphysics'></a>
+| Title | Author(s) | Edition | Link |
+| --- | --- | --- | --- |
+| Quantum Mechanics for Scientists and Engineers | David A. B. Miller | 1st | |
 ## 4. Literatures <a name = 'literature'></a>
 
 ### 4.1 Historic Literatures <a name = 'historicliterature'></a>
