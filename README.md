@@ -192,7 +192,7 @@
 | Title | Author(s) | Edition | Link |
 | --- | --- | --- | --- |
 | Organic Chemistry: Structure and Function | K. Peter C. Vollhardt, Neil E. Schore | 6th & 8th | [Telegram Link](https://t.me/hirahtalkshere/238) [Telegram Link](https://t.me/hirahtalkshere/239) |
-
+| Organic Chemistry: A Very Short Introduction | Graham Patrick |  | [Telegram Link](https://t.me/Datascienceee/911) |
 ### 3.3 Medicinal Chemistry <a name = 'medicinalchemistry'></a>
 | Title | Author(s) | Edition | Link |
 | --- | --- | --- | --- |
