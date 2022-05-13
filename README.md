@@ -65,6 +65,8 @@
 
 ### 6.2 [Objective and Key Results (OKR)](#OKR)
 
+## 7. [Drug Discovery](#7-drug-discovery)
+
 # Contents:
 
 ## 1.Data Science <a name = 'datascience'></a>
@@ -251,3 +253,8 @@
 | Title | Author(s) | Edition | Link |
 | --- | --- | --- | --- |
 | Radical Focus: Achieving Your Most Important Goals with Objectives and Key Results | Christina R Wodtke | 2nd | [Telegram Link](https://t.me/Datascienceee/870) |
+
+## 7. Drug Discovery <a name = '7-drug-discovery'></a>
+| Title | Author(s) | Edition | Link |
+| --- | --- | --- | --- |
+| Drugs: A Very Short Introduction | Les Iversen | 2nd | [Telegram Link](https://t.me/Datascienceee/915) |
