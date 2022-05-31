@@ -1,3 +1,22 @@
+
+## 1. [Data Science](#datascience)
+
+### 1.1 [Natural Language Processing](#NLP)
+
+### 1.2 [Deep Learning](#DL)
+
+### 1.3 [Machine Learning](#ML)
+
+#### 1.3.1 [Interpretable Machine Learning](#XAI)
+
+### 1.4 [Data Visualization](#DataVis)
+
+### 1.5 [Data Mining](#DataMining)
+
+### 1.6 [Bioinformatics & Cheminformatics](#chembioinformatics)
+
+### 1.7 [Graph Neural Networks & Graph relates](#graph)
+
 ## 1.Data Science <a name = 'datascience'></a>
 
 | Title | Author(s) | Edition | Link |
@@ -60,3 +79,16 @@
 | Title | Author(s) | Edition | Link |
 | --- | --- | --- | --- |
 | Computational Approaches in Cheminformatics and Bioinformatics | Rajarshi Guha, Andreas Bender | 1st | [Telegram Link](https://t.me/Datascienceee/741) |
+
+### 1.7 Graph Neural Networks & Graph Relates <a name = 'graph'></a>
+| Title | Author(s) | Edition | Link |
+| --- | --- | --- | --- |
+| Graph Representation Learning | William L. Hamilton | 1st | [Telegram Link](https://t.me/Datascienceee/864) |
+| [Networks, Crowds, and Markets: Reasoning About a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/) | David Easley, Jon Kleinberg |  | [Telegram Link](https://t.me/Datascienceee/896) |
+| [Network Science](http://networksciencebook.com/) | Albert-László Barabási | | |
+## 2.Mathematics <a name = 'math'></a>
+| Title | Author(s) | Edition | Link |
+| --- | --- | --- | --- |
+| Mathematics: A Very Short Introduction | Timothy Gowers | 1st | [Telegram Link](https://t.me/Datascienceee/471) |
+| [Mathematics for Machine Learning](https://mml-book.github.io) | Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong | 1st | [Telegram Link](https://t.me/Datascienceee/758) |
+| Mathematical Methods in the Physical Sciences | Mary L. Boas | 3rd | [Telegram Link (Book)](https://t.me/Datascienceee/768) [Telegram Link (Practice Answers)](https://t.me/Datascienceee/769) |
