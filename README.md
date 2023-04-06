@@ -184,6 +184,7 @@
 | How to Read a Book: The Classic Guide to Intelligent Reading | Mortimer J. Adler, Charles Van Doren | PaperBack | [Telegram Link](https://t.me/Datascienceee/551) |
 | The Meaning of Life: A Very Short Introduction | Terry Eagleton | Paperback | [Telegram Link](https://t.me/Datascienceee/744) |
 | Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones | James Clear | Paperback | [Telegram Link](https://t.me/Datascienceee/994) |
+| Deep Work: Rules for Focused Success in a Distracted World | Cal Newport | | [Telegram Link](https://t.me/Datascienceee/1059) |
 ### 6.1 MBTI <a name = 'MBTI'></a>
 | Title | Author(s) | Edition | Link |
 | --- | --- | --- | --- |
