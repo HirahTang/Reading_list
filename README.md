@@ -151,7 +151,7 @@
 ### 3.6 Quantum Chemistry <a name = 'quantumchemistry'></a>
 | Title | Author(s) | Edition | Link |
 | --- | --- | --- | --- |
-| Understanding Molecular Simulation: From Algorithms to Applications(中译本) ｜ Daan Frenkel, Berend Smit ｜ 2nd | [Telegram Link](https://t.me/datascience_chinese/683) |
+| Understanding Molecular Simulation: From Algorithms to Applications(中译本) | Daan Frenkel, Berend Smit | 2nd | [Telegram Link](https://t.me/datascience_chinese/683) |
 
 ## 4. Literatures <a name = 'literature'></a>
 
