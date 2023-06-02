@@ -48,6 +48,8 @@
 
 ### 3.5 [Biochemistry](#biochemistry)
 
+### 3.6 [Quantum Chemistry](#quantumchemistry)
+
 ## 4. [Literatures](#literature)
 
 ### 4.1 [Historic Literatures](#historicliterature)
@@ -145,6 +147,11 @@
 | Title | Author(s) | Edition | Link |
 | --- | --- | --- | --- |
 | Biochemistry: A Very Short Introduction | Mark Lorch |  | [Telegram Link](https://t.me/Datascienceee/917) |
+
+### 3.6 Quantum Chemistry <a name = 'quantumchemistry'></a>
+| Title | Author(s) | Edition | Link |
+| --- | --- | --- | --- |
+| Understanding Molecular Simulation: From Algorithms to Applications(中译本) ｜ Daan Frenkel, Berend Smit ｜ 2nd | [Telegram Link](https://t.me/datascience_chinese/683) |
 
 ## 4. Literatures <a name = 'literature'></a>
 
