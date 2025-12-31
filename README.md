@@ -70,6 +70,8 @@
 
 ### 6.2 [Objective and Key Results (OKR)](#OKR)
 
+### 6.3 [Business](#Business) 
+
 ## 7. [Drug Discovery](#7-drug-discovery)
 
 # Contents:
@@ -201,6 +203,11 @@
 | Title | Author(s) | Edition | Link |
 | --- | --- | --- | --- |
 | Radical Focus: Achieving Your Most Important Goals with Objectives and Key Results | Christina R Wodtke | 2nd | [Telegram Link](https://t.me/Datascienceee/870) |
+
+### 6.3 Business <a name = 'Business'></a>
+| Title | Author(s) | Edition | Link |
+| --- | --- | --- | --- |
+| The Lean Startup How Todays Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses | Eric Ries | | |
 
 ## 7. Drug Discovery <a name = '7-drug-discovery'></a>
 | Title | Author(s) | Edition | Link |
